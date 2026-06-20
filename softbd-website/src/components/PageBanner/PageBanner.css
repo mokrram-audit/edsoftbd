@@ -1,0 +1,92 @@
+.page-banner {
+  position: relative;
+  background: var(--secondary);
+  padding: 120px 0 72px;
+  overflow: hidden;
+  min-height: 280px;
+  display: flex;
+  align-items: center;
+}
+.page-banner__overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, var(--dark) 0%, var(--secondary) 60%, var(--dark-3) 100%);
+  opacity: 0.97;
+}
+.page-banner__pattern {
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+/* Orange accent line at bottom */
+.page-banner::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--primary), var(--accent));
+}
+.page-banner__inner {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+.page-banner__title {
+  font-size: clamp(28px, 4.5vw, 46px);
+  font-weight: 800;
+  color: white;
+  margin-bottom: 10px;
+  font-family: var(--font-heading);
+}
+.page-banner__subtitle {
+  font-size: 16px;
+  color: rgba(255,255,255,0.65);
+  max-width: 520px;
+  line-height: 1.7;
+}
+/* Breadcrumb */
+.page-banner__breadcrumb {
+  flex-shrink: 0;
+}
+.page-banner__breadcrumb-list {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+.page-banner__breadcrumb-link {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: rgba(255,255,255,0.6);
+  font-size: 13px;
+  font-weight: 500;
+  transition: var(--transition);
+}
+.page-banner__breadcrumb-link:hover { color: var(--accent); }
+.page-banner__breadcrumb-item {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.page-banner__breadcrumb-sep {
+  color: rgba(255,255,255,0.3);
+  font-size: 10px;
+}
+.page-banner__breadcrumb-current {
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .page-banner { padding: 100px 0 56px; }
+  .page-banner__inner { flex-direction: column; align-items: flex-start; gap: 20px; }
+}

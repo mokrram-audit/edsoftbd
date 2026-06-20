@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "title": "VAT Accounting Software",
+    "category": "Accounting & Finance",
+    "industry": "Finance",
+    "description": "A comprehensive VAT accounting solution that automates tax calculations, generates VAT returns, and ensures full compliance with local tax regulations.",
+    "technologies": ["Web", "Desktop", "Reports"],
+    "color": "#0A66C2"
+  },
+  {
+    "id": 2,
+    "title": "Enterprise Resource Planning (ERP)",
+    "category": "Enterprise",
+    "industry": "Enterprise",
+    "description": "Fully integrated ERP system covering procurement, inventory, HR, finance, and operations — designed to unify all business processes on a single platform.",
+    "technologies": ["Web", "API", "Database"],
+    "color": "#1A2E4A"
+  },
+  {
+    "id": 3,
+    "title": "Point of Sales Software (Chain/Single)",
+    "category": "Retail & Commerce",
+    "industry": "Retail",
+    "description": "Powerful POS solution for single outlets and multi-branch chains with real-time sales tracking, inventory sync, and reporting dashboards.",
+    "technologies": ["Desktop", "Web", "Barcode"],
+    "color": "#10B981"
+  },
+  {
+    "id": 4,
+    "title": "Restaurant Management System",
+    "category": "Retail & Commerce",
+    "industry": "Food & Beverage",
+    "description": "End-to-end restaurant management covering table orders, kitchen display, billing, inventory, and customer loyalty programs.",
+    "technologies": ["Web", "Mobile", "POS"],
+    "color": "#F59E0B"
+  },
+  {
+    "id": 5,
+    "title": "Financial Accounting System",
+    "category": "Accounting & Finance",
+    "industry": "Finance",
+    "description": "Full-featured accounting platform with general ledger, accounts payable/receivable, bank reconciliation, and financial statement generation.",
+    "technologies": ["Web", "Desktop", "Reports"],
+    "color": "#0EA5E9"
+  },
+  {
+    "id": 6,
+    "title": "Attendance Management System",
+    "category": "HR & Payroll",
+    "industry": "HR",
+    "description": "Automated attendance tracking with biometric integration, shift management, leave tracking, and real-time reporting for organisations of any size.",
+    "technologies": ["Web", "Biometric", "Mobile"],
+    "color": "#8B5CF6"
+  },
+  {
+    "id": 7,
+    "title": "Human Resource Management System",
+    "category": "HR & Payroll",
+    "industry": "HR",
+    "description": "Comprehensive HRMS covering employee records, recruitment, performance appraisal, training management, and organisational hierarchy.",
+    "technologies": ["Web", "Mobile", "API"],
+    "color": "#6366F1"
+  },
+  {
+    "id": 8,
+    "title": "Integrated Healthcare Management System",
+    "category": "Healthcare",
+    "industry": "Healthcare",
+    "description": "Integrated platform for hospitals and clinics managing patient records, appointments, billing, pharmacy, lab, and medical imaging in one system.",
+    "technologies": ["Web", "HL7", "Database"],
+    "color": "#EF4444"
+  },
+  {
+    "id": 9,
+    "title": "Ecommerce System",
+    "category": "Retail & Commerce",
+    "industry": "E-Commerce",
+    "description": "Full-stack ecommerce platform with product catalogues, shopping cart, payment gateway integration, order tracking, and seller dashboards.",
+    "technologies": ["Web", "Mobile", "Payment Gateway"],
+    "color": "#EC4899"
+  },
+  {
+    "id": 10,
+    "title": "Customer Relationship Management (CRM)",
+    "category": "Enterprise",
+    "industry": "Business",
+    "description": "CRM system for managing leads, contacts, sales pipelines, customer interactions, and marketing campaigns to drive business growth.",
+    "technologies": ["Web", "Email", "API"],
+    "color": "#0891B2"
+  },
+  {
+    "id": 11,
+    "title": "Hospital Management Software (ERP)",
+    "category": "Healthcare",
+    "industry": "Healthcare",
+    "description": "Hospital-grade ERP integrating OPD, IPD, pharmacy, lab, radiology, HR, payroll, and finance into a unified management solution.",
+    "technologies": ["Web", "HL7", "Reports"],
+    "color": "#DC2626"
+  },
+  {
+    "id": 12,
+    "title": "Small Office Management Software",
+    "category": "Enterprise",
+    "industry": "SME",
+    "description": "Lightweight office management tool for small businesses covering tasks, attendance, invoicing, and basic HR — simple, fast, and affordable.",
+    "technologies": ["Web", "Desktop"],
+    "color": "#64748B"
+  },
+  {
+    "id": 13,
+    "title": "Diagnostic & Clinic Management Software",
+    "category": "Healthcare",
+    "industry": "Healthcare",
+    "description": "Clinic and diagnostic centre management covering patient registration, test orders, result reporting, billing, and doctor schedules.",
+    "technologies": ["Web", "Reports", "Barcode"],
+    "color": "#D97706"
+  },
+  {
+    "id": 14,
+    "title": "Pharmacy Management Software",
+    "category": "Healthcare",
+    "industry": "Healthcare",
+    "description": "Complete pharmacy management system with drug inventory, expiry tracking, purchase orders, sales billing, and supplier management.",
+    "technologies": ["Web", "Desktop", "Barcode"],
+    "color": "#7C3AED"
+  },
+  {
+    "id": 15,
+    "title": "Online Billing Software",
+    "category": "Accounting & Finance",
+    "industry": "Finance",
+    "description": "Cloud-based billing and invoicing system with recurring billing, tax management, payment reminders, and client portal.",
+    "technologies": ["Web", "Payment Gateway", "PDF"],
+    "color": "#059669"
+  },
+  {
+    "id": 16,
+    "title": "Inventory Management Software",
+    "category": "Retail & Commerce",
+    "industry": "Retail",
+    "description": "Online and offline inventory management with stock tracking, warehouse management, purchase orders, and real-time low-stock alerts.",
+    "technologies": ["Web", "Desktop", "Barcode"],
+    "color": "#B45309"
+  },
+  {
+    "id": 17,
+    "title": "Payroll Software",
+    "category": "HR & Payroll",
+    "industry": "HR",
+    "description": "Automated payroll processing with salary computation, tax deductions, payslip generation, bank transfer files, and compliance reporting.",
+    "technologies": ["Web", "Desktop", "Reports"],
+    "color": "#0284C7"
+  },
+  {
+    "id": 18,
+    "title": "Point of Sales (POS)",
+    "category": "Retail & Commerce",
+    "industry": "Retail",
+    "description": "Fast, reliable POS terminal software with barcode scanning, cash management, discount handling, and end-of-day reporting.",
+    "technologies": ["Desktop", "Barcode", "Receipt"],
+    "color": "#16A34A"
+  },
+  {
+    "id": 19,
+    "title": "School / College / University Management Software",
+    "category": "Education",
+    "industry": "Education",
+    "description": "Campus management system covering admissions, student records, timetable, exams, results, fees, library, and parent portal.",
+    "technologies": ["Web", "Mobile", "Reports"],
+    "color": "#9333EA"
+  },
+  {
+    "id": 20,
+    "title": "Shop Management Software",
+    "category": "Retail & Commerce",
+    "industry": "Retail",
+    "description": "All-in-one shop management system for sales, purchases, inventory, accounts, and daily reporting for retail outlets.",
+    "technologies": ["Desktop", "Web"],
+    "color": "#CA8A04"
+  },
+  {
+    "id": 21,
+    "title": "Super Shop Management Software",
+    "category": "Retail & Commerce",
+    "industry": "Retail",
+    "description": "Supermarket management platform with multi-department inventory, POS, barcode, customer loyalty, and supply chain management.",
+    "technologies": ["Web", "POS", "Barcode"],
+    "color": "#15803D"
+  },
+  {
+    "id": 22,
+    "title": "Real Estate / Property / Asset Management Software",
+    "category": "Enterprise",
+    "industry": "Real Estate",
+    "description": "Property management system for tracking assets, rental agreements, maintenance schedules, tenant records, and financial reports.",
+    "technologies": ["Web", "Mobile", "Reports"],
+    "color": "#B91C1C"
+  },
+  {
+    "id": 23,
+    "title": "Multi-Purpose Management Software",
+    "category": "Enterprise",
+    "industry": "Business",
+    "description": "Flexible multi-module management platform adaptable for various business types including trading, services, and manufacturing.",
+    "technologies": ["Web", "Desktop", "API"],
+    "color": "#1D4ED8"
+  },
+  {
+    "id": 24,
+    "title": "Project Management Software for Apartment",
+    "category": "Enterprise",
+    "industry": "Real Estate",
+    "description": "Apartment project tracking system with progress monitoring, contractor management, budget control, and handover management.",
+    "technologies": ["Web", "Mobile"],
+    "color": "#7C3AED"
+  },
+  {
+    "id": 25,
+    "title": "Hotel Management System",
+    "category": "Retail & Commerce",
+    "industry": "Hospitality",
+    "description": "Complete hotel management solution with room booking, front desk operations, housekeeping, F&B, billing, and revenue reporting.",
+    "technologies": ["Web", "Mobile", "POS"],
+    "color": "#C2410C"
+  },
+  {
+    "id": 26,
+    "title": "Law Firm Information Management System",
+    "category": "Enterprise",
+    "industry": "Legal",
+    "description": "Legal practice management platform for case tracking, client records, document management, billing, and court date scheduling.",
+    "technologies": ["Web", "Documents", "Reports"],
+    "color": "#374151"
+  },
+  {
+    "id": 27,
+    "title": "Buying House & Garments Management System",
+    "category": "Enterprise",
+    "industry": "Garments",
+    "description": "Comprehensive garments management system covering buying house operations, order management, production tracking, and export documentation.",
+    "technologies": ["Web", "Desktop", "Reports"],
+    "color": "#0F766E"
+  },
+  {
+    "id": 28,
+    "title": "Customer Relationship Management System",
+    "category": "Enterprise",
+    "industry": "Business",
+    "description": "Advanced CRM with sales automation, customer lifecycle tracking, support ticketing, and analytics for growing businesses.",
+    "technologies": ["Web", "Mobile", "Email"],
+    "color": "#0369A1"
+  },
+  {
+    "id": 29,
+    "title": "Simple Billing / Invoice Software",
+    "category": "Accounting & Finance",
+    "industry": "Finance",
+    "description": "Easy-to-use billing and invoice software for freelancers and small businesses with quick invoice creation, payment tracking, and PDF export.",
+    "technologies": ["Web", "Desktop", "PDF"],
+    "color": "#6B7280"
+  },
+  {
+    "id": 30,
+    "title": "Digital Prescription Software",
+    "category": "Healthcare",
+    "industry": "Healthcare",
+    "description": "Progressive Web App (PWA) for digital prescriptions enabling doctors to issue, manage, and share prescriptions online — accessible from any device, even offline.",
+    "technologies": ["PWA", "Web", "Mobile", "Offline"]
+  },
+  {
+    "id": 31,
+    "title": "Department of Fisheries MIS Database",
+    "category": "Government",
+    "industry": "Government",
+    "description": "Management Information System database for the Department of Fisheries to track fish production, hatcheries, licences, export records, and fisheries officer reports nationwide.",
+    "technologies": ["Web", "Database", "Reports", "GIS"]
+  },
+  {
+    "id": 32,
+    "title": "Business Promotion Council MIS Software",
+    "category": "Government",
+    "industry": "Government",
+    "description": "MIS platform for the Business Promotion Council to manage business registrations, investment data, council operations, member records, and performance reporting.",
+    "technologies": ["Web", "Database", "Reports", "Dashboard"]
+  }
+]

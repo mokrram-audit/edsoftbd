@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "NovaERP",
+    "category": "Enterprise Resource Planning",
+    "tagline": "All-in-One Business Management Platform",
+    "description": "A comprehensive ERP solution that integrates finance, HR, inventory, procurement, and operations into a single unified platform. Built for scalability and ease of use.",
+    "features": ["Financial Management", "HR & Payroll", "Inventory Control", "Supply Chain", "Business Analytics"],
+    "badge": "Most Popular",
+    "badgeColor": "#0A66C2",
+    "gradient": "linear-gradient(135deg, #0A66C2 0%, #0EA5E9 100%)"
+  },
+  {
+    "id": 2,
+    "name": "NovaCRM",
+    "category": "Customer Relationship Management",
+    "tagline": "Build Stronger Customer Relationships",
+    "description": "A powerful CRM platform designed to help sales teams manage leads, automate workflows, and close deals faster while delivering exceptional customer experiences.",
+    "features": ["Lead Management", "Sales Pipeline", "Email Automation", "Customer Analytics", "Mobile CRM"],
+    "badge": "New",
+    "badgeColor": "#10B981",
+    "gradient": "linear-gradient(135deg, #10B981 0%, #059669 100%)"
+  },
+  {
+    "id": 3,
+    "name": "NovaHR",
+    "category": "Human Resource Management",
+    "tagline": "Simplify HR Operations at Scale",
+    "description": "An end-to-end HR management system covering recruitment, onboarding, performance management, payroll, and employee self-service portals.",
+    "features": ["Recruitment Module", "Employee Onboarding", "Performance Reviews", "Payroll Processing", "Leave Management"],
+    "badge": "Enterprise",
+    "badgeColor": "#8B5CF6",
+    "gradient": "linear-gradient(135deg, #8B5CF6 0%, #7C3AED 100%)"
+  },
+  {
+    "id": 4,
+    "name": "NovaDesk",
+    "category": "IT Service Management",
+    "tagline": "Effortless IT Support & Ticketing",
+    "description": "A modern IT service management platform with smart ticketing, asset tracking, SLA management, and self-service knowledge base.",
+    "features": ["Smart Ticketing", "Asset Management", "SLA Tracking", "Knowledge Base", "Reporting & Insights"],
+    "badge": "SME Friendly",
+    "badgeColor": "#F59E0B",
+    "gradient": "linear-gradient(135deg, #F59E0B 0%, #D97706 100%)"
+  }
+]

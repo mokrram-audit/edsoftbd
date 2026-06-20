@@ -1,0 +1,108 @@
+[
+  {
+    "category": "Custom Software Development",
+    "description": "Languages, frameworks and tools for scalable web and desktop apps.",
+    "items": [
+      { "name": "React.js",      "icon": "FaReact"   },
+      { "name": "Vue.js",        "icon": "FaVuejs"   },
+      { "name": "Angular",       "icon": "FaAngular" },
+      { "name": "Node.js",       "icon": "FaNodeJs"  },
+      { "name": "Python",        "icon": "FaPython"  },
+      { "name": "Java",          "icon": "FaJava"    },
+      { "name": "PHP / Laravel", "icon": "FaPhp"     },
+      { "name": "TypeScript",    "icon": "FaCode"    }
+    ]
+  },
+  {
+    "category": "Cloud Solutions & DevOps",
+    "description": "Cloud platforms and DevOps tools for deploying and scaling infrastructure.",
+    "items": [
+      { "name": "AWS",          "icon": "FaAws"          },
+      { "name": "Google Cloud", "icon": "FaGoogle"       },
+      { "name": "Docker",       "icon": "FaDocker"       },
+      { "name": "Kubernetes",   "icon": "FaServer"       },
+      { "name": "Linux",        "icon": "FaLinux"        },
+      { "name": "GitHub",       "icon": "FaGithub"       }
+    ]
+  },
+  {
+    "category": "Mobile App Development",
+    "description": "Cross-platform and native mobile technologies for iOS and Android.",
+    "items": [
+      { "name": "React Native", "icon": "FaReact"    },
+      { "name": "Flutter",      "icon": "FaMobile"   },
+      { "name": "iOS / Swift",  "icon": "FaApple"    },
+      { "name": "Android",      "icon": "FaAndroid"  },
+      { "name": "Kotlin",       "icon": "FaCode"     }
+    ]
+  },
+  {
+    "category": "Data Analytics & BI",
+    "description": "Data processing, visualisation and machine learning tools.",
+    "items": [
+      { "name": "Python",      "icon": "FaPython"   },
+      { "name": "TensorFlow",  "icon": "FaBrain"    },
+      { "name": "PostgreSQL",  "icon": "FaDatabase" },
+      { "name": "MySQL",       "icon": "FaDatabase" },
+      { "name": "MongoDB",     "icon": "FaDatabase" },
+      { "name": "Redis",       "icon": "FaServer"   },
+      { "name": "Power BI",    "icon": "FaChartBar" }
+    ]
+  },
+  {
+    "category": "Cybersecurity",
+    "description": "Security frameworks and tools for protecting systems and data.",
+    "items": [
+      { "name": "Kali Linux",  "icon": "FaLinux"        },
+      { "name": "Metasploit",  "icon": "FaBug"          },
+      { "name": "Wireshark",   "icon": "FaNetworkWired" },
+      { "name": "OWASP Tools", "icon": "FaShieldAlt"    },
+      { "name": "Burp Suite",  "icon": "FaLock"         },
+      { "name": "Nmap",        "icon": "FaSearch"       }
+    ]
+  },
+  {
+    "category": "IT / ITES Training",
+    "description": "Platforms and tools used to deliver IT training and e-learning.",
+    "items": [
+      { "name": "LMS Platforms",    "icon": "FaGraduationCap" },
+      { "name": "Zoom / Teams",     "icon": "FaVideo"         },
+      { "name": "Google Workspace", "icon": "FaGoogle"        },
+      { "name": "MS Office",        "icon": "FaFileWord"      },
+      { "name": "Moodle",           "icon": "FaBookOpen"      }
+    ]
+  },
+  {
+    "category": "UX / UI Design",
+    "description": "Design tools for creating intuitive interfaces and user experiences.",
+    "items": [
+      { "name": "Figma",    "icon": "FaPenNib"    },
+      { "name": "Adobe XD", "icon": "FaLayerGroup"},
+      { "name": "Sketch",   "icon": "FaEye"       },
+      { "name": "InVision", "icon": "FaMagic"     },
+      { "name": "Framer",   "icon": "FaCode"      }
+    ]
+  },
+  {
+    "category": "3D, Animation & Motion Graphics",
+    "description": "Professional 3D modelling, animation and motion graphics software.",
+    "items": [
+      { "name": "Blender",       "icon": "FaCubes"      },
+      { "name": "After Effects", "icon": "FaFilm"       },
+      { "name": "Cinema 4D",     "icon": "FaCubes"      },
+      { "name": "Maya",          "icon": "FaCubes"      },
+      { "name": "3ds Max",       "icon": "FaCubes"      },
+      { "name": "ZBrush",        "icon": "FaPaintBrush" }
+    ]
+  },
+  {
+    "category": "Graphic Design",
+    "description": "Creative tools for branding, print and digital design.",
+    "items": [
+      { "name": "Photoshop",   "icon": "FaPaintBrush" },
+      { "name": "Illustrator", "icon": "FaPalette"    },
+      { "name": "InDesign",    "icon": "FaFileWord"   },
+      { "name": "Canva",       "icon": "FaPalette"    }
+    ]
+  }
+]

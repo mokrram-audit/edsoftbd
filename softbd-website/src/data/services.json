@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "icon": "FaCode",
+    "title": "Custom Software Development",
+    "shortDescription": "Tailored software solutions designed to meet your unique business requirements and drive operational efficiency.",
+    "description": "We build bespoke software solutions from the ground up, leveraging the latest technologies and best practices to create scalable, maintainable, and high-performance applications.",
+    "features": ["Web Applications", "Mobile Apps", "Desktop Software", "API Development", "Microservices"],
+    "color": "#0A66C2"
+  },
+  {
+    "id": 2,
+    "icon": "FaCloud",
+    "title": "Cloud Solutions & DevOps",
+    "shortDescription": "Accelerate your digital transformation with cloud migration, architecture, and managed DevOps services.",
+    "description": "From cloud strategy and migration to infrastructure automation and continuous delivery, we help you harness the full power of the cloud.",
+    "features": ["Cloud Migration", "AWS / Azure / GCP", "CI/CD Pipelines", "Infrastructure as Code", "Cloud Security"],
+    "color": "#0EA5E9"
+  },
+  {
+    "id": 3,
+    "icon": "FaMobile",
+    "title": "Mobile App Development",
+    "shortDescription": "Native and cross-platform mobile applications that deliver exceptional user experiences on iOS and Android.",
+    "description": "We create intuitive, high-performance mobile applications using React Native, Flutter, Swift, and Kotlin to reach your audience wherever they are.",
+    "features": ["iOS Development", "Android Development", "React Native", "Flutter", "App Store Optimization"],
+    "color": "#8B5CF6"
+  },
+  {
+    "id": 4,
+    "icon": "FaChartBar",
+    "title": "Data Analytics & BI",
+    "shortDescription": "Transform raw data into actionable insights with advanced analytics, dashboards, and business intelligence tools.",
+    "description": "Our data experts help you collect, process, and visualize data to uncover trends and make informed strategic decisions.",
+    "features": ["Data Warehousing", "BI Dashboards", "Predictive Analytics", "Big Data", "Machine Learning"],
+    "color": "#F59E0B"
+  },
+  {
+    "id": 5,
+    "icon": "FaShieldAlt",
+    "title": "Cybersecurity Services",
+    "shortDescription": "Protect your digital assets with comprehensive cybersecurity assessments, solutions, and managed security services.",
+    "description": "We provide end-to-end security services including vulnerability assessments, penetration testing, security architecture, and compliance management.",
+    "features": ["Security Audits", "Penetration Testing", "Compliance (ISO/SOC2)", "Security Training", "Incident Response"],
+    "color": "#EF4444"
+  },
+  {
+    "id": 6,
+    "icon": "FaCogs",
+    "title": "IT Consulting & Strategy",
+    "shortDescription": "Strategic technology advisory to align your IT investments with business goals and accelerate growth.",
+    "description": "Our seasoned consultants provide expert guidance on digital transformation, technology roadmaps, enterprise architecture, and IT governance.",
+    "features": ["Digital Transformation", "Technology Roadmap", "Enterprise Architecture", "IT Governance", "Change Management"],
+    "color": "#10B981"
+  },
+  {
+    "id": 7,
+    "icon": "FaChalkboardTeacher",
+    "title": "IT / ITES Training",
+    "shortDescription": "Professional IT and IT-enabled services training programs designed to build real-world skills and career-ready competencies.",
+    "description": "We offer comprehensive IT/ITES training covering software development, BPO solutions, Supply Chain Management, and e-safety — delivered by industry practitioners with hands-on project experience.",
+    "features": ["Software Development Training", "BPO Solutions Training", "Supply Chain Management", "IT e-Safety", "Freelancing & Online Earning"],
+    "color": "#6366F1"
+  },
+  {
+    "id": 8,
+    "icon": "FaPencilRuler",
+    "title": "UX / UI Design",
+    "shortDescription": "User-centred interface design that blends aesthetics with functionality for engaging digital experiences.",
+    "description": "Our UX/UI designers craft intuitive and visually compelling interfaces for web and mobile platforms — from wireframes and prototypes to polished production-ready designs.",
+    "features": ["User Research", "Wireframing & Prototyping", "Web UI Design", "Mobile UI Design", "Design Systems"],
+    "color": "#EC4899"
+  },
+  {
+    "id": 9,
+    "icon": "FaCube",
+    "title": "3D Modeling & Animation",
+    "shortDescription": "High-quality 3D models and animations for products, architecture, games, and visual storytelling.",
+    "description": "We create detailed 3D models and lifelike animations for a wide range of industries — from product visualisation and architectural walkthroughs to game assets and virtual environments.",
+    "features": ["Product 3D Modeling", "Architectural Visualization", "Character Modeling", "Rigging & Skinning", "3D Rendering"],
+    "color": "#0891B2"
+  },
+  {
+    "id": 10,
+    "icon": "FaFilm",
+    "title": "Motion Graphics",
+    "shortDescription": "Dynamic motion graphics that bring your brand, ideas, and stories to life through animated visual content.",
+    "description": "From logo animations and explainer videos to title sequences and broadcast graphics, we produce polished motion graphics that captivate audiences across any screen.",
+    "features": ["Logo Animation", "Explainer Videos", "Title Sequences", "Infographic Animation", "Social Media Reels"],
+    "color": "#7C3AED"
+  },
+  {
+    "id": 11,
+    "icon": "FaPhotoVideo",
+    "title": "2D & 3D Animation",
+    "shortDescription": "Engaging 2D and 3D animation services for marketing, education, entertainment, and corporate storytelling.",
+    "description": "Whether you need a 2D character animation, a fully rendered 3D cinematic, or an animated explainer — our animation team delivers frame-perfect results on time.",
+    "features": ["2D Character Animation", "3D Cinematic Animation", "Educational Animations", "Animated Ads", "Story-based Videos"],
+    "color": "#D97706"
+  },
+  {
+    "id": 12,
+    "icon": "FaPalette",
+    "title": "Graphic Design",
+    "shortDescription": "Creative graphic design services covering branding, print, digital assets, and everything in between.",
+    "description": "Our graphic designers produce visually compelling work across brand identity, marketing materials, social media assets, packaging, and publication design.",
+    "features": ["Brand Identity & Logos", "Social Media Graphics", "Print & Packaging", "Brochures & Flyers", "Presentation Design"],
+    "color": "#059669"
+  }
+]

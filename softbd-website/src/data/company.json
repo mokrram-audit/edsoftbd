@@ -1,0 +1,51 @@
+{
+  "name": "eData Software Limited",
+  "shortName": "eData",
+  "tagline": "Innovating Tomorrow, Delivering Today",
+  "shortDescription": "One of the leading Information Technology Solution Companies in Bangladesh with a strong talented professionals team providing an extensive range of products and services.",
+  "description": "eData Software Ltd. is one of the leading Information Technology Solution Companies in Bangladesh with a strong talented professionals team that provides extensive range of products and services. It has built a reputation for innovation and delivering excellence in IT/ITES training, Business Process Outsourcing Solutions Training, Training on Supply Chain Management, Consultancy Services, Web development & design. Besides, eData Software Ltd. offers the most advanced IT solutions, supporting full business cycle: preliminary consulting, system development and deployment, quality assurance and supports.",
+  "extendedDescription": "eData Software Ltd. specializes in development of complex custom software systems. The Company's diversity of technical expertise, its agile responsiveness to custom corporate requirements, and its proven commitment to superior delivery technologies have established it a frontrunner in the software industry. Our business expertise enriched by 5 years of experience in the software industry in Bangladesh enable us to deliver simple, effective and innovative solutions for every dynamic and complex business requisite. Our Consultancy Services are highly detailed, covering a wide range of IT Training Industries and Software Business Sectors, ultimately enabling us to help you develop the people with the highest amount of accuracy and best results! Having dealt with trainees at multiple levels of business fluency, we have amassed a multi-faceted and exhaustive experience expertise. Driven by creativity and a passion for progress, we constantly enhance ourselves by embracing new growth oriented ideas and technology to help our clients realize their full potential and equipped them with a competitive edge.",
+  "founded": "2015",
+  "employees": "100+",
+  "projects": "300+",
+  "clients": "120+",
+  "countries": "15+",
+  "mission": [
+    "To provide innovative, quality and sustainable ICT solutions and services.",
+    "To provide universal access, IT based training and support.",
+    "To deliver an integrated, responsive and secure technology environment.",
+    "To Improve IT Skills for Developing ICT and e-safety.",
+    "To provide advanced technology (AI, IOT, Block Chain Technology, machine learning etc.) based software products to enable organizations to run their businesses and operations better."
+  ],
+  "vision": [
+    "To create IT opportunity and Competency in every Sector and country around the whole world.",
+    "To ensure digitalize together for fourth industrial revolution.",
+    "To ensure empowerment, establish transparency, accountability and good governance at every level and Areas."
+  ],
+  "values": [
+    { "title": "Integrity",               "description": "Building long-term trust through ethical practices and transparency in everything we do." },
+    { "title": "Transparency",            "description": "Open and honest communication with our clients, partners and team members at all times." },
+    { "title": "Accountability",          "description": "Taking full responsibility for our commitments and delivering on our promises." },
+    { "title": "Promise to Customers",    "description": "Keeping every pledge we make to our clients and consistently exceeding expectations." },
+    { "title": "Diversity & Inclusion",   "description": "Welcoming diverse perspectives and fostering an inclusive environment for all." },
+    { "title": "Honesty",                 "description": "Conducting business with candour and authenticity in all our relationships." },
+    { "title": "Fairness",                "description": "Treating everyone equitably and impartially across all our interactions." },
+    { "title": "Learning",                "description": "Continuously growing through curiosity, experimentation and knowledge sharing." },
+    { "title": "Teamwork",                "description": "Collaborating closely to achieve shared goals and celebrate collective success." },
+    { "title": "Passion",                 "description": "Bringing enthusiasm and dedication to every project we undertake." },
+    { "title": "Quality",                 "description": "Maintaining uncompromising standards in code, design, training and delivery." }
+  ],
+  "address": "8/C, Dilara Tower, 77/3 Bir Uttam C.R. Dutta Road, Hatirpool, Dhaka-1205",
+  "phone": "+880-1964-661441",
+  "mobile": "+880-1964-661441",
+  "whatsapp": "8801964661441",
+  "email": "info@edsoftbd.com",
+  "website": "https://edsoftbd.com",
+  "social": {
+    "facebook": "https://facebook.com/edatasoftware",
+    "twitter":  "https://twitter.com/edatasoftware",
+    "linkedin": "https://linkedin.com/company/edatasoftware",
+    "youtube":  "https://youtube.com/edatasoftware",
+    "github":   "https://github.com/edatasoftware"
+  }
+}

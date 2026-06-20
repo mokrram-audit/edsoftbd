@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Robert Mitchell",
+    "role": "CTO",
+    "company": "CapitalBank Ltd",
+    "country": "United Kingdom",
+    "rating": 5,
+    "text": "TechNova delivered our mobile banking platform on time and beyond expectations. Their technical expertise and project management are world-class. The team truly understood our regulatory requirements and delivered a secure, user-friendly solution.",
+    "initials": "RM",
+    "color": "#0A66C2"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Amina Osei",
+    "role": "Director General",
+    "company": "Ministry of Health",
+    "country": "Ghana",
+    "rating": 5,
+    "text": "The National Health Information System built by TechNova has transformed healthcare delivery across our country. Their deep understanding of healthcare workflows and commitment to quality is unmatched.",
+    "initials": "AO",
+    "color": "#10B981"
+  },
+  {
+    "id": 3,
+    "name": "Zhang Wei",
+    "role": "VP Technology",
+    "company": "RetailGiant Corp",
+    "country": "Singapore",
+    "rating": 5,
+    "text": "Our e-commerce transformation would not have been possible without TechNova. They migrated our entire legacy system with zero downtime and delivered a platform that handles millions of transactions daily.",
+    "initials": "ZW",
+    "color": "#8B5CF6"
+  },
+  {
+    "id": 4,
+    "name": "Carlos Mendoza",
+    "role": "IT Director",
+    "company": "LogisticsPro International",
+    "country": "Mexico",
+    "rating": 5,
+    "text": "TechNova's supply chain optimization platform has saved us millions. Their team is highly professional, responsive, and genuinely invested in our success. I highly recommend them for complex enterprise projects.",
+    "initials": "CM",
+    "color": "#F59E0B"
+  },
+  {
+    "id": 5,
+    "name": "Emma Lindqvist",
+    "role": "Chief Digital Officer",
+    "company": "Global University Network",
+    "country": "Sweden",
+    "rating": 5,
+    "text": "Working with TechNova on our university management system was an exceptional experience. They brought creative solutions to complex problems and the end product has significantly improved student and staff satisfaction.",
+    "initials": "EL",
+    "color": "#EF4444"
+  },
+  {
+    "id": 6,
+    "name": "Anil Kapoor",
+    "role": "Smart City Program Manager",
+    "company": "City of Innovation",
+    "country": "India",
+    "rating": 5,
+    "text": "TechNova delivered our IoT dashboard ahead of schedule, and the quality exceeded all our benchmarks. Their expertise in real-time data systems and IoT integration is truly impressive.",
+    "initials": "AK",
+    "color": "#0EA5E9"
+  }
+]

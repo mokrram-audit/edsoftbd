@@ -1,0 +1,152 @@
+[
+
+  {
+    "id": 2,
+    "name": "Shihab Uddin",
+    "role": "Managing Director",
+    "department": "Executive",
+    "bio": "",
+    "initials": "SU",
+    "color": "#8B1A2F",
+    "photo": "/about/md.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Md. Julhas Uddin",
+    "role": "Chief Executive Officer (CEO)",
+    "department": "Executive",
+    "bio": "",
+    "initials": "JU",
+    "color": "#0A66C2",
+    "photo": "Md. Julhas Uddin.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Md. Abu Billal",
+    "role": "COO & Director (Admin)",
+    "bio": "",
+    "initials": "AB",
+    "color": "#10B981",
+    "photo": "/about/COO.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Md. Faisal Rabbani",
+    "role": "CTO",
+    "bio": "",
+    "initials": "FR",
+    "color": "#F59E0B",
+    "photo": "/about/project_manager.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Engnr. Sishir Mitray",
+    "role": "Developer",
+    "department": "Software & Application Development",
+    "bio": "Ensure that all Software and Apps projects are delivered on-time, within scope and within budget.",
+    "initials": "SM",
+    "color": "#6366F1",
+    "photo": null
+  },
+  {
+    "id": 7,
+    "name": "Engnr. Md. Jakir Hossain",
+    "role": "Developer",
+    "department": "Software & Application Development",
+    "bio": "Ensure that all Software and Apps projects are delivered on-time, within scope and within budget.",
+    "initials": "JH",
+    "color": "#6366F1",
+    "photo": null
+  },
+  {
+    "id": 8,
+    "name": "Engnr. Mostanser Billah",
+    "role": "Developer",
+    "department": "Software & Application Development",
+    "bio": "Ensure that all Software and Apps projects are delivered on-time, within scope and within budget.",
+    "initials": "MB",
+    "color": "#6366F1",
+    "photo": null
+  },
+  {
+    "id": 9,
+    "name": "Engnr. Md. Rahmatullah Jibon",
+    "role": "Developer",
+    "department": "Software & Application Development",
+    "bio": "Ensure that all Software and Apps projects are delivered on-time, within scope and within budget.",
+    "initials": "RJ",
+    "color": "#6366F1",
+    "photo": null
+  },
+  {
+    "id": 10,
+    "name": "Engnr. Md. Shohel Rana",
+    "role": "Developer",
+    "department": "Software & Application Development",
+    "bio": "Ensure that all Software and Apps projects are delivered on-time, within scope and within budget.",
+    "initials": "SR",
+    "color": "#6366F1",
+    "photo": null
+  },
+  {
+    "id": 11,
+    "name": "Engr. Md. Abdul Jabbar",
+    "role": "Project Manager",
+    "department": "Training-based Project Management",
+    "bio": "Ensure that all projects are delivered on-time, within scope and within budget.",
+    "initials": "AJ",
+    "color": "#0EA5E9",
+    "photo": null
+  },
+  {
+    "id": 12,
+    "name": "Md. Shaon Hasan",
+    "role": "Project Coordinator",
+    "department": "Campaign Management & M&E",
+    "bio": "Coordinate internal resources and third parties/vendors for the flawless execution of projects.",
+    "initials": "SH",
+    "color": "#EC4899",
+    "photo": null
+  },
+  {
+    "id": 13,
+    "name": "Md. Enan Hossain",
+    "role": "Project Coordinator",
+    "department": "Campaign Management & M&E",
+    "bio": "Manage changes to the project scope, schedule, and costs using appropriate verification techniques.",
+    "initials": "EH",
+    "color": "#EC4899",
+    "photo": null
+  },
+  {
+    "id": 14,
+    "name": "Md. Shajidul Islam",
+    "role": "Freelancer Trainer",
+    "department": "Design & Creative (Graphic & UI-UX)",
+    "bio": "Provide training on Graphics Design, online freelancing & earning.",
+    "initials": "SI",
+    "color": "#F97316",
+    "photo": null
+  },
+
+  {
+    "id": 16,
+    "name": "Md. Suman Hassan",
+    "role": "Freelancer Trainer",
+    "department": "Design & Creative (Graphic & UI-UX)",
+    "bio": "Provide training on Graphics Design, online freelancing & earning.",
+    "initials": "SH",
+    "color": "#F97316",
+    "photo": null
+  },
+  {
+    "id": 17,
+    "name": "Mohammed Salahuddin",
+    "role": "Staff",
+    "department": "General",
+    "bio": "",
+    "initials": "MS",
+    "color": "#64748B",
+    "photo": null
+  }
+]
